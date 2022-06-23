@@ -1,0 +1,45 @@
+table {
+    border-collapse: collapse;
+}
+
+th,
+td {
+    border: 2px solid black;
+    padding: 40px;
+}
+
+.yoga {
+    background-color: #009bcc;
+}
+
+.biking {
+    background-color: #96c21f;
+}
+
+.days {
+    background-color: lightgrey;
+}
+
+.selfDefense {
+    background-color: #e65686;
+}
+
+.boxe {
+    background-color: #d9006b;
+}
+
+.stretching {
+    background-color: #11bcaf;
+}
+
+.cardio {
+    background-color: #7459ad;
+}
+
+.crossfit {
+    background-color: #d2800e;
+}
+
+.lunch {
+    background-image: url(../img/stripes.png);
+}
